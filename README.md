@@ -1,6 +1,8 @@
 # ruby-confluence-scripts
 
-Some miscellaneous ruby scripts to be used with Atlassian Confluence software
+Some miscellaneous ruby scripts to be used with Atlassian Confluence software.
+
+These scripts use to Confluence REST API (/rest/api): see https://docs.atlassian.com/atlassian-confluence/REST/latest-server/
 
 ## deleteConfluenceWikiPageAndChildren.rb
 
